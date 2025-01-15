@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>👋 Olá! Eu sou o Alvaro Salvino</h2>
+    <h2>Alvaro S. Salvino 👋</h2>
     <p>Desenvolvedor Full Stack | Entusiasta na criação de soluções inovadoras e eficientes.</p>
 </div>
 
