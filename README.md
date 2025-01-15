@@ -10,17 +10,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaro.salvino@gmail.com)
 
 ---
-
+<img align='right' src="https://media.giphy.com/media/kdddIq6rZJIEbHVlHk/giphy.gif" width="230">
 ### 🚀 Sobre Mim
 <div align="center">
-    <p>Desenvolvedor moderno, especializado em criar soluções completas e otimizadas. Comprometido em aprender continuamente e explorar novas tecnologias para oferecer resultados de excelência.</p>
+    <p>Formado em Jogos Digitais pela UNICV, combino criatividade e habilidades técnicas para desenvolver projetos funcionais e atrativos, focados em proporcionar uma experiência de qualidade aos usuários.</p>    
 </div>
 
 ---
 
 ### ⚙️ Minhas Ferramentas e Tecnologias
-
-![Alvaro GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroSalvino&show_icons=true&theme=)
+<p align="center">
+  <a href="https://github.com/AlvaroSalvino/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvaroSalvino&show_icons=true&theme=gotham&count_private=true&hide_title=true" />
+  </a>
+</p>
 <div align="center">
     <table>
         <tr>
