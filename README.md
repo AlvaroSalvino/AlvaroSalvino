@@ -13,7 +13,7 @@
 <img align='right' src="https://media.giphy.com/media/kdddIq6rZJIEbHVlHk/giphy.gif" width="230">
 ### 🚀 Sobre Mim
 <div align="center">
-    <p>Formado em Jogos Digitais pela UNICV, combino criatividade e habilidades técnicas para desenvolver projetos funcionais e atrativos, focados em proporcionar uma experiência de qualidade aos usuários.</p>    
+    <p>Formado em Jogos Digitais e finalizando ADS(Análise e Desenvolvimento de Sistemas) pela UNICV, combino criatividade e habilidades técnicas para desenvolver projetos funcionais e atrativos, focados em proporcionar uma experiência de qualidade aos usuários.</p>    
 </div>
 
 ---
