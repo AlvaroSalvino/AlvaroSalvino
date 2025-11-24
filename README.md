@@ -19,11 +19,11 @@
 ---
 
 ### ⚙️ Minhas Ferramentas e Tecnologias
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/AlvaroSalvino/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlvaroSalvino&show_icons=true&theme=gotham&count_private=true&hide_title=true" />
   </a>
-</p>
+</p> -->
 <div align="center">
     <table>
         <tr>
