@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Hi, I'm Alvaro S. Salvino 👋</h2>
+    <h2>Hi, I'm Alvaro S. Salvino</h2>
     <p>Full Stack Developer | Passionate about building efficient and innovative solutions.</p>
 </div>
 
@@ -83,5 +83,5 @@ I enjoy developing web systems, APIs, and automation tools, always aiming to cre
 ---
 
 <div align="center">
-<em>✨ Thanks for visiting my profile! Feel free to explore my repositories and projects.</em>
+<em>Thanks for visiting my profile! Feel free to explore my repositories and projects.</em>
 </div>
